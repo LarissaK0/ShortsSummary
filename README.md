@@ -14,6 +14,8 @@ Projeto criado no evento NLWIA da RocketSeat.
 
 Shorts Summary é uma aplicação web para criar resumos de vídeos shorts do YouTube utilizando inteligência artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo.
 
+<p> Você pode acessar o projeto clicando <a href="https://shorts-summary-sooty.vercel.app/" target="_blank">AQUI</a>! </p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
