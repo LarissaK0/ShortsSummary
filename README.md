@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Shorts Summary <img alt="shorts" src="public/logo.svg" width="30"></h1>
 
 <p align="center">
@@ -28,3 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ------
 
 <footer>Feito com ♥ by Larissa :wave:</footer>
+=======
+# ShortsSummary
+
+Projeto feito a partir da NLWIA, evento da RocketSeat
+>>>>>>> c4d96955df01bbdeffcb024afd490ca6fa43f8fc
